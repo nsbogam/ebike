@@ -1,4 +1,4 @@
-# Joy Ebike 2022 variant replay attack to unlock the scooter
+# Joy Ebike Wolf 2022 variant replay attack to unlock the scooter
 
 This is a report about a cyber security issue identified in Joy ebike unlock feature
 
