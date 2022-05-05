@@ -1,6 +1,6 @@
 # ebike
 
-This is a report about a cyber security issue identified in Joy ebike unlock. If you are not the right person, please connect me with the cyber security team / person from Joy ebike.
+This is a report about a cyber security issue identified in Joy ebike unlock feature
 
 **Summary**:
 Joy ebike Wolf variant manufactured in 2022 has a feature to lock or unlock/drive the vehicle via ebike key fob. In this vehicle, if the unlock/drive command is sniffed by Hackrf and replayed, it is possible to unlock/drive the vehicle.
