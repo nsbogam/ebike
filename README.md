@@ -35,6 +35,6 @@ Additional Note: Further analysis is not conducted, but multiple commands can be
 https://drive.google.com/file/d/1COrBDuncLs5yR5lotpxyMSWQDY6Br-qj/view?usp=sharing
 
 **Credits:
-Neelam Verma
-Krutarth Raut
+Neelam Verma,
+Krutarth Raut,
 Nikhil Bogam**
